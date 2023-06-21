@@ -1,3 +1,9 @@
+Inline responsive images - Drupal 10
+==============================
+
+This repo has the Drupal rector patch applied to make it Drupal 10 compatible.
+https://www.drupal.org/files/issues/2022-07-18/inline_responsive_images.2.x-dev.rector.patch
+
 DESCRIPTION
 -----------
 It's not great for the authoring experience nor for structured content reasons
