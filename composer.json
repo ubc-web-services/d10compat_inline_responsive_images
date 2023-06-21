@@ -1,0 +1,22 @@
+{
+    "name": "ubc-web-services/d10compat_inline_responsive_images",
+    "type": "drupal-module",
+    "description": "Lets users select a responsive style OR a image style to place images in the content.",
+    "keywords": [
+        "Drupal"
+    ],
+    "license": "GPL-2.0-or-later",
+    "homepage": "http://drupal.org/project/inline_responsive_images,
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Betawerk",
+            "homepage": "https://www.drupal.org/u/betawerk,
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "http://drupal.org/project/issues/inline_responsive_images,
+        "source": "http://cgit.drupalcode.org/inline_responsive_images
+    }
+}
