@@ -11,12 +11,12 @@
     "authors": [
         {
             "name": "Betawerk",
-            "homepage": "https://www.drupal.org/u/betawerk,
+            "homepage": "https://www.drupal.org/u/betawerk",
             "role": "Maintainer"
         }
     ],
     "support": {
-        "issues": "http://drupal.org/project/issues/inline_responsive_images,
-        "source": "http://cgit.drupalcode.org/inline_responsive_images
+        "issues": "http://drupal.org/project/issues/inline_responsive_images",
+        "source": "http://cgit.drupalcode.org/inline_responsive_images"
     }
 }
